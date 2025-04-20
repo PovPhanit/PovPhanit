@@ -1,7 +1,5 @@
 # 👨‍💻 Phanit Developer
 Hi, I'm **Phanit**, a passionate and multi-skilled **Full-Stack Developer** with expertise in both **frontend** and **backend** development. I love solving real-world problems with code and turning ideas into fully functioning web and mobile applications. My goal is to build clean, scalable, and high-performance software.
-
-## 📌 Goals
 - 🚀 Build more full-stack projects using modern technologies  
 - 🤝 Collaborate with developers on open-source projects  
 - 🎯 Continue growing skills in cloud services and DevOps  
