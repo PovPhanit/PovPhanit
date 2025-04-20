@@ -1,5 +1,25 @@
-## Hi there 👋
+# Phanit Developer
 
+welcome to AutoMetaPro with me
+- 👋 Hi, I’m @PovPhanit
+---------------------------------------------
+***Version => 6.2.5***
+- new (Reg account admin)
+- Fix connecting device
+
+***Version => 6.2.6***
+- Fix password reg account
+---------------------------------------------
+Contact me for more information
+
+[![Telegram](https://img.shields.io/badge/Telegram-Contact-blue?logo=telegram)](https://t.me/phanit_pov)
+[![Facebook](https://img.shields.io/badge/Facebook-Connect-blue?logo=facebook)](https://web.facebook.com/phanit.loveoun.52)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/PovPhanit)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-red?logo=instagram)](https://www.instagram.com/phanit_r7)
+[![Email](https://img.shields.io/badge/Email-Contact-yellow?logo=gmail)](mailto:povphanit8@gmail.com)
+[![WeChat](https://img.shields.io/badge/WeChat-Connect-brightgreen?logo=wechat)](https://u.wechat.com/kHLik3UkGp9k-ghuiZ6rMhM)
+
+____________________________________________
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/EYvZJRS4bJ) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/12L9qVB7pPC/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@phanit_r7) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@phanit_r7) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@phanitdeveloper?si=b8pxORLwxoXUxCP6) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:povphanit8@gmail.com) 
