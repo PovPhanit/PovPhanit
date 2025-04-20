@@ -71,6 +71,20 @@ Hi, I'm **Phanit**, a passionate and multi-skilled **Full-Stack Developer** with
 </p>
 
 
+## 🖌️ Design Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobephotoshop&logoColor=white" style="height:33px;">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" style="height:33px;">
+  <img src="https://img.shields.io/badge/CorelDRAW-000000?style=flat&logo=coreldraw&logoColor=white" style="height:33px;">
+</p>
+
+## 🧾 Office Tools  
+<p align="center">
+  <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoftword&logoColor=white" style="height:33px;">
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white" style="height:33px;">
+  <img src="https://img.shields.io/badge/PowerPoint-B7472A?style=flat&logo=microsoftpowerpoint&logoColor=white" style="height:33px;">
+  <img src="https://img.shields.io/badge/Access-A4373A?style=flat&logo=microsoftaccess&logoColor=white" style="height:33px;">
+</p>
 
 ---
 
