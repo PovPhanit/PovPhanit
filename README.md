@@ -1,5 +1,4 @@
 # 👨‍💻 Phanit Developer
-
 Hi, I'm **Phanit**, a passionate and multi-skilled **Full-Stack Developer** with expertise in both **frontend** and **backend** development. I love solving real-world problems with code and turning ideas into fully functioning web and mobile applications. My goal is to build clean, scalable, and high-performance software.
 
 ## 📌 Goals
@@ -11,12 +10,8 @@ Hi, I'm **Phanit**, a passionate and multi-skilled **Full-Stack Developer** with
 ![](https://github-readme-stats.vercel.app/api?username=PovPhanit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=PovPhanit&theme=ambient_gradient&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PovPhanit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
 [![](https://visitcount.itsvg.in/api?id=PovPhanit&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<h1 align="center">🚀 My Tech Stack</h1>
-
 ### 🖥️ Languages 
 ---
 <p align="center">
