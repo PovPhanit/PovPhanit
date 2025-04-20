@@ -6,8 +6,6 @@ Hi, I'm **Phanit**, a passionate and multi-skilled **Full-Stack Developer** with
 - 🤝 Collaborate with developers on open-source projects  
 - 🎯 Continue growing skills in cloud services and DevOps  
 
-# 📊 GitHub Stats:
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PovPhanit&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false" width="350px">
   <img src="https://nirzak-streak-stats.vercel.app/?user=PovPhanit&theme=ambient_gradient&hide_border=false" width="350px">
